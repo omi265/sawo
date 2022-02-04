@@ -22,9 +22,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot 2022-02-04 192700.png)
-![](Screenshot 2022-02-04 192731.png)
-![](Screenshot 2022-02-04 192801.png)
+![image](./ss1.png)
+![image](./ss2.png)
+![image](./ss3.png)
 
 
 ### Links
@@ -56,5 +56,5 @@ Users should be able to:
 
 ### Bugs Found
 These were a few bugs i found on the Sawo website while i was going through it.
-- ![](Screenshot 2022-02-04 193821.png)
-- ![](WhatsApp Image 2022-02-04 at 6.21.06 PM.jpeg)
+- ![image](./bug1.png)
+- ![image](./bug2.png)
