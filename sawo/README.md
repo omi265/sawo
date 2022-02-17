@@ -57,4 +57,4 @@ Users should be able to:
 ### Bugs Found
 These were a few bugs i found on the Sawo website while i was going through it.
 - ![image](./bug1.png)
-- ![image](./bug2.png)
+- ![image](./bug2.jpeg)
