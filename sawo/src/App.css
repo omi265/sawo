@@ -1,4 +1,4 @@
-.leaflet-container {
+/* .leaflet-container {
   background-color: black;
   margin-top: -70px;
   min-height: 79vh;
@@ -32,6 +32,21 @@ h1.title {
   max-width: 380px;
   margin: auto;
   margin-bottom: 100px;
+}
+
+.log_out{
+  color: #fff;
+  font-size: 15px;
+  font-weight: 200;
+  background-color: #2b2b2b;
+  padding: 20px;
+  border: none;
+  border-radius: 10px;
+  position: absolute;
+  right: 0;
+  margin-right: 20px;
+  cursor: pointer;
+
 }
 
 .input_box {
@@ -107,12 +122,11 @@ span.results {
     max-width: 65%;
     max-height: 80%;
     align-items: initial;
-    margin-bottom: -260px;
+    margin-bottom: -300px;
   }
 
   .description {
     border: none;
-    /* flex-wrap: wrap; */
     justify-content: flex-start;
     padding: 5px;
     align-items: center;
@@ -121,4 +135,11 @@ span.results {
   .description_last {
     border-bottom: none;
   }
+
 }
+
+@media screen and (max-width: 400px) {
+  .input_box {
+    min-width: 240px;
+  }
+} */
